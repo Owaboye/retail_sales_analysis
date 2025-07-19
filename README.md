@@ -22,3 +22,6 @@ To explore the dashboard:
 # Dashboard Screenshot
 ![Retail Sales Dashboard](https://github.com/Owaboye/retail_sales_analysis/blob/main/sales%20dashboard.PNG)
 
+# Monthly Sales trend
+![Mnthly sales trend](https://github.com/Owaboye/retail_sales_analysis/blob/main/Sales%20by%20Month.PNG)
+
