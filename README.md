@@ -19,6 +19,6 @@ To explore the dashboard:
 2. Open `Sales Dashboard.xlsx` in Microsoft Excel (preferably 2016+ for best compatibility).
 3. Use the interactive slicers and dropdowns to analyze different aspects of the sales data.
 
-4. Dashboard Screenshot
-5. ![Retail Sales Dashboard](https://github.com/Owaboye/retail_sales_analysis/blob/main/sales%20dashboard.PNG)
+# Dashboard Screenshot
+![Retail Sales Dashboard](https://github.com/Owaboye/retail_sales_analysis/blob/main/sales%20dashboard.PNG)
 
